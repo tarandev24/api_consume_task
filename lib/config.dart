@@ -1,0 +1,1 @@
+const G_API_BASE_URL = "https://firebasestorage.googleapis.com";
